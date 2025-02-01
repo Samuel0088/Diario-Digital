@@ -4,4 +4,4 @@ Para rodar a aplicação:
 Adicionar no domínio do navegador ao rodar a aplicação:
   /diario
 
-https://github.com/Samuel0088/Diario-Digital/issues/1#issue-2825395472
+<img src="https://github.com/Samuel0088/Diario-Digital/issues/1#issue-2825395472" alt="">
